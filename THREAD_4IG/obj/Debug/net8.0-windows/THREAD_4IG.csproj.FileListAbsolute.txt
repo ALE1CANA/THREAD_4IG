@@ -1,0 +1,16 @@
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\bin\Debug\net8.0-windows\THREAD_4IG.exe
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\bin\Debug\net8.0-windows\THREAD_4IG.deps.json
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\bin\Debug\net8.0-windows\THREAD_4IG.runtimeconfig.json
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\bin\Debug\net8.0-windows\THREAD_4IG.dll
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\bin\Debug\net8.0-windows\THREAD_4IG.pdb
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.Form1.resources
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.csproj.GenerateResource.cache
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.AssemblyInfoInputs.cache
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.AssemblyInfo.cs
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.csproj.CoreCompileInputs.cache
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.dll
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\refint\THREAD_4IG.dll
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.pdb
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\THREAD_4IG.genruntimeconfig.cache
+C:\Users\Meeting Gritti Group\Desktop\THREAD_4IG\THREAD_4IG\obj\Debug\net8.0-windows\ref\THREAD_4IG.dll
